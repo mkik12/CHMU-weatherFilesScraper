@@ -37,7 +37,3 @@ pip install selenium
 pip install undetected-chromedriver
 pip install zipfile36
 ```
-
-## License
-
-[GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)
