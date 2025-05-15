@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Due to an update on the CHMI website, these scripts no longer work. They will be removed soon, after the associated QGIS [plugin](https://plugins.qgis.org/plugins/CHMU_weatherDataProcessing/) has been updated accordingly. Please use this [link](https://drive.google.com/file/d/1dbbK2epZS3zD6mZmuCwLPefkjufGlANQ/view?usp=sharing) to acquire meteorological data up to 2023.
+
 # CHMI – Meteorological Data
 
 *Copyright (C) 2025  Mikuláš Kadečka – mikulas.kad@seznam.cz*
